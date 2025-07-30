@@ -1,0 +1,83 @@
+[
+  {
+    "nome": "Sir Kael",
+    "raca": "Humano",
+    "classe": "Guerreiro",
+    "idade": "Jovem-adulto",
+    "ocupacao": "Guarda",
+    "alinhamento": "Leal e Bom",
+    "local_origem": "Cinzavento",
+    "historico": "Sir Kael era um jovem guarda de [[CC-Cinzavento|Cinzavento]]. Após a destruição do vilarejo por cultistas, jurou proteger os sobreviventes. Carrega um sentimento de liderança e dever sobre o grupo, especialmente com [[CC-Elorien Sombravento|Elorien]], a quem salvou das chamas.",
+    "personalidade": "Sou o último a dormir e o primeiro a montar guarda. A segurança dos outros está sempre em primeiro lugar.",
+    "ideal": "É dever dos fortes proteger os fracos. Não importa o custo.",
+    "vinculos": "Carrego comigo um pingente da minha irmã mais nova, morta no ataque. Ela me lembra do que devo proteger.",
+    "defeitos": "Recuso ajuda mesmo quando preciso. Acredito que minha dor é um fardo pessoal.",
+    "imagem": "sir_kael.jpg"
+  },
+  {
+    "nome": "Thalia",
+    "raca": "Anã das Colinas",
+    "classe": "Clériga",
+    "idade": "Adulta",
+    "ocupacao": "Sacerdotisa",
+    "alinhamento": "Leal e Bom",
+    "local_origem": "Templo da Deusa da Compaixão",
+    "historico": "Thalia era a guardiã do templo da deusa da compaixão. Salvou muitos do incêndio causado pelos cultistas. Vê os companheiros como sua nova congregação. Tem um carinho especial por [[CC-Nym Sombrassalto|Nym]], a quem salvou ainda criança.",
+    "personalidade": "Mesmo diante do desespero, ofereço esperança. Não porque sou forte mas porque alguém precisa sê-lo.",
+    "ideal": "O mundo está ferido e cada um de nós é um remédio, ou um veneno.",
+    "vinculos": "O grupo é minha nova congregação. Onde eles estiverem, lá estarei.",
+    "defeitos": "Carrego uma raiva contida contra aqueles que profanam a fé e às vezes ela fala mais alto do que a razão.",
+    "imagem": "thalia.jpg"
+  },
+  {
+    "nome": "Elorien",
+    "raca": "Alto Elfo",
+    "classe": "Mago",
+    "idade": "Jovem",
+    "ocupacao": "Estudante de magia",
+    "alinhamento": "Neutro e Bom",
+    "local_origem": "Cinzavento",
+    "historico": "Elorien era aprendiz do mago local. Quando o vilarejo foi atacado, sobreviveu escondido em sua torre. Determinado a entender e destruir os cultistas, considera [[CC-Sir Kael|Kael]] um verdadeiro irmão de armas.",
+    "personalidade": "Anoto tudo. Cada sinal, cada símbolo. O conhecimento pode salvar vidas... ou destruí-las.",
+    "ideal": "O mundo é cheio de segredos enterrados. Eu serei aquele que os desenterrará.",
+    "vinculos": [
+      "O grimório do meu mestre foi tudo que restou após o incêndio. Nele há pistas que ainda não compreendo.",
+      "Sir Kael me salvou nas chamas. Desde então, jurei que protegeria o grupo com minha mente, se não com minha espada."
+    ],
+    "defeitos": "Guardo meus medos sob controle... mas eles crescem quando estou sozinho.",
+    "imagem": "elorien.jpg"
+  },
+  {
+    "nome": "Nym",
+    "raca": "Halfling",
+    "classe": "Pés-Leves",
+    "idade": "Jovem",
+    "ocupacao": "Orfão",
+    "alinhamento": "Caótico e Bom",
+    "local_origem": "Cinzavento",
+    "historico": "Nym era o 'pequeno larápio' do vilarejo, mas sua astúcia salvou vidas durante a destruição. Agora é espião e explorador do grupo. Segue [[CC-Irmã Thalia|Thalia]] com lealdade e vê o grupo como sua nova família.",
+    "personalidade": "Nunca deixo alguém para trás. Já fui deixado, e não desejo isso nem ao pior canalha.",
+    "ideal": "Ninguém deveria ser forçado a ajoelhar-se — seja a um rei ou a um deus cruel.",
+    "vinculos": [
+      "Thalia me salvou quando eu era só um ladrãozinho faminto. Ela me tratou como gente, e isso vale mais que ouro.",
+      "O grupo é a única família que me restou. Qualquer um que tente machucá-los vai conhecer minha lâmina antes do meu nome."
+    ],
+    "defeitos": "Tenho dificuldade em confiar em estranhos. E sou ainda pior em confiar em autoridades.",
+    "imagem": "nym.jpg"
+  },
+  {
+    "nome": "Serenna",
+    "raca": "Tiefling",
+    "classe": "Bruxa",
+    "idade": "Jovem adulta",
+    "ocupacao": "Acólita",
+    "alinhamento": "Leal e Boa",
+    "local_origem": "Templo da Ordem Antiga",
+    "historico": "Filha de uma devota sacerdotisa da antiga ordem do templo, Serenna nasceu com olhos verdes e veias de laranja sob a pele, sinal de que havia sangue pactuado em sua linhagem. Durante o levante do [[CC-O Culto da Chama Faminta|Culto da Chama Faminta]], sua mãe foi sequestrada e transformada em um receptáculo vivo da 'vontade do deus verdadeiro'. Enganada, Serenna aceitou um pacto profano para salvá-la. Transformada em bateria espiritual viva, foi usada para canalizar energia sombria. Selada viva ao resistir, agora desperta, ainda ligada ao pacto, busca redenção, respostas e sua mãe, lutando contra o próprio poder que flui por suas veias.",
+    "personalidade": "Minha fé é minha prisão... e minha única esperança.",
+    "ideal": "A santidade não está em nascer puro, mas em escolher a luz mesmo quando tudo te empurra para a escuridão.",
+    "vinculos": "Minha mãe, Ilyss Draal, ainda pode estar viva — sequestrada, corrompida ou sagrada. Farei tudo para encontrá-la.",
+    "defeitos": "Às vezes duvido da minha própria bondade, acho que o poder dentro de mim pode ser maior que minha vontade.",
+    "imagem": "serenna.jpg"
+  }
+]
